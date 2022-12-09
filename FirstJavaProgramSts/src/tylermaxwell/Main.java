@@ -1,6 +1,17 @@
 package tylermaxwell;
 
+/**
+ * 
+ * @author tmax8
+ *
+ */
+
 public class Main {
+	
+	/**
+	 * 
+	 * @param args command line arguments
+	 */
 	public static void main(String[] args) {
 		System.out.println("My name is Coding Dojo");
 		System.out.println("I am 100 years old");

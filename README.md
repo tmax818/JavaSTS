@@ -6,7 +6,7 @@ Java Fundamentals (Day 1)
 
 | week | day | assignment                                                              | type     |
 |------|-----|:------------------------------------------------------------------------|----------|
-| 1    | Mon | [First Java Program](FirstJavaProgramSts/src/tylermaxwell/Main.java)    | Practice |
+| 1    | Mon | [First Java Program](FirstJavaProgramSts/README.md)                     | Practice |
 | 1    | Mon | [Cafe Java](CafeJavaSts/src/tylermaxwell/CafeJava.java/)                | Practice |
 | 1    | Mon | [Alfred Bot](AlfredBotSts/src/tylermaxwell)                             | Practice |
 | 1    | Mon | [Cafe Business Logic](CafeBusinessLogicSts/src/tylermaxwell)            | Core     |
