@@ -7,10 +7,10 @@ Java Fundamentals (Day 1)
 | week | day | assignment                                                              | type     |
 |------|-----|:------------------------------------------------------------------------|----------|
 | 1    | Mon | [First Java Program](FirstJavaProgramSts/src/tylermaxwell/Main.java)    | Practice |
-| 1    | Mon | [Cafe Java](CafeJava/README.md)                                         | Practice |
-| 1    | Mon | [Alfred Bot](AlfredBot/README.md)                                       | Practice |
-| 1    | Mon | [Cafe Business Logic](CafeBusinessLogic/README.md)                      | Core     |
-| 1    | Mon | [Puzzling](Puzzling/README.md)                                          | Practice |
+| 1    | Mon | [Cafe Java](CafeJavaSts/src/tylermaxwell/CafeJava.java/)                | Practice |
+| 1    | Mon | [Alfred Bot](AlfredBotSts/src/tylermaxwell)                             | Practice |
+| 1    | Mon | [Cafe Business Logic](CafeBusinessLogicSts/src/tylermaxwell)            | Core     |
+| 1    | Mon | [Puzzling](PuzzlingSts/src/tylermaxwell)                                | Practice |
 | 1    | Mon | [Map of the Hashmatique](MapOfTheHashmatique/README.md)                 | Practice |
 | 1    | Tue | [Orders & Items](OrdersAndItems/README.md)	                           | Practice |
 | 1    | Tue | [Barista's Challenge](BaristasChallenge/README.md)	                   | Practice |
