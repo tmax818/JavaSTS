@@ -1,1 +1,1 @@
-moduleSearchIndex = [{"l":"AlfredBotSts"}];updateSearchResults();
+moduleSearchIndex = [{"l":"FirstJavaProgramSts"}];updateSearchResults();
