@@ -15,7 +15,7 @@ Java Fundamentals (Day 1)
 | 1    | Tue | [Orders & Items](OrdersAndItems/README.md)	                           | Practice |
 | 1    | Tue | [Barista's Challenge](BaristasChallenge/README.md)	                   | Practice |
 | 1    | Tue | [Bank Account](BankAccount/README.md)	                               |     Core |
-| 1    | Tue | [Bank Account](Coffeedore64/README.md)	                               | Practice |
+| 1    | Tue | [Coffeedore 64](Coffeedore64/README.md)	                               | Practice |
 | 1    | Wed | [Car and Driver](CarAndDriverSts/src/tylermaxwell)	                   | Practice |
 | 1    | Wed | [Zoo Keeper](ZooKeeper/README.md)	                                   |     Core |
 | 1    | Wed | [CareSoft Interfaces](CareSoftInterfaces/README.md)	                   |     Core |
