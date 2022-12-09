@@ -45,7 +45,7 @@
 		<item key="antpath" value="C:\Users\tmax8\Documents\CodingDojo\JavaSTS\AlfredBotSts\javadoc.xml"/>
 		<item key="destdir" value="C:\Users\tmax8\Documents\CodingDojo\JavaSTS\AlfredBotSts\doc"/>
 		<section name="projects">
-			<section name="AlfredBotSts">
+			<section name="FirstJavaProgramSts">
 				<item key="href" value=""/>
 				<item key="destdir" value="C:\Users\tmax8\Documents\CodingDojo\JavaSTS\AlfredBotSts\doc"/>
 				<item key="antpath" value="C:\Users\tmax8\Documents\CodingDojo\JavaSTS\AlfredBotSts\javadoc.xml"/>
@@ -87,6 +87,13 @@
 		<item key="DIALOG_Y_ORIGIN" value="8"/>
 		<item key="DIALOG_WIDTH" value="526"/>
 		<item key="DIALOG_HEIGHT" value="696"/>
+		<item key="DIALOG_FONT_NAME" value="1|Segoe UI|9.0|0|WINDOWS|1|-12|0|0|0|400|0|0|0|1|0|0|0|0|Segoe UI"/>
+	</section>
+	<section name="JavadocWizardDialog">
+		<item key="DIALOG_X_ORIGIN" value="204"/>
+		<item key="DIALOG_Y_ORIGIN" value="8"/>
+		<item key="DIALOG_WIDTH" value="968"/>
+		<item key="DIALOG_HEIGHT" value="567"/>
 		<item key="DIALOG_FONT_NAME" value="1|Segoe UI|9.0|0|WINDOWS|1|-12|0|0|0|400|0|0|0|1|0|0|0|0|Segoe UI"/>
 	</section>
 </section>
