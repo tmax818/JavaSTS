@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<session version="1.0">
+<refactoring comment="Rename compilation unit &apos;tylermaxwell.CafeTest.java&apos; to &apos;TestCafe.java&apos;&#x0D;&#x0A;- Original project: &apos;CafeBusinessLogicSts&apos;&#x0D;&#x0A;- Original element: &apos;tylermaxwell.CafeTest.java&apos;&#x0D;&#x0A;- Renamed element: &apos;tylermaxwell.TestCafe.java&apos;" description="Rename compilation unit &apos;CafeTest.java&apos;" flags="2" id="org.eclipse.jdt.ui.rename.compilationunit" input="/src&lt;tylermaxwell{CafeTest.java" name="TestCafe.java" references="false" stamp="1669736722423" version="1.0"/>
+</session>

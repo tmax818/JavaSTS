@@ -1,0 +1,7 @@
+INDEX VERSION 1.4+C:\Users\tmax8\Documents\CodingDojo\JavaSTS\.metadata\.plugins\org.eclipse.wst.jsdt.core\indexes
+406623723.index
+2030422844.index
+411980453.index
+382866658.index
+1351383885.index
+255624381.index

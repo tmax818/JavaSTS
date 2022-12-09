@@ -1,0 +1,1 @@
+moduleSearchIndex = [{"l":"AlfredBotSts"}];updateSearchResults();
